@@ -1,0 +1,26 @@
+_repo: The-story-of-my-childhood_64704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barton, Clara
+    aliases:
+    - Barton, Clarissa Harlowe
+    - Barton, Clara Harlowe
+    birthdate: 1821
+    deathdate: 1912
+    gutenberg_agent_id: '34455'
+    url: http://www.gutenberg.org/2009/agents/34455
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Barton
+description: ''
+gutenberg_issued: '2021-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The story of my childhood
+url: http://www.gutenberg.org/ebooks/64704
